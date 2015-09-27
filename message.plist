@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://deployment.openxt.com/openxtapp/message.ipa</string>
+					<string>http://115.29.172.181/message.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
